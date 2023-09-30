@@ -2,7 +2,7 @@
 - 👀 I’m interested in C#, AI, Web API Projects
 - 🌱 I’m currently learning Azure 
 - 💞️ I’m looking to collaborate on C#, API, Machine Learning, AI
-- 📫 How to reach me on GitHub
+- 📫 Click here..
 
 <!---
 dineshjethva/dineshjethva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
