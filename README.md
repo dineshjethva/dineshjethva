@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dineshjethva
-- 👀 I’m interested in C#, AI, Web API Projects
+- 👀 I’m interested in C#, Net Core, Web API, Angular Projects
 - 🌱 I’m currently learning Azure 
 - 💞️ I’m looking to collaborate on C#, API, Machine Learning, AI
 - 📫 Click here..
